@@ -1,0 +1,32 @@
+[
+    {
+        "amount": 250.0,
+        "date": "2025-10-26",
+        "category": "Bills",
+        "note": "Electricity and internet"
+    },
+    {
+        "amount": 250.0,
+        "date": "2025-10-26",
+        "category": "Car bills",
+        "note": "October car insurance"
+    },
+    {
+        "amount": 123.0,
+        "date": "2025-10-26",
+        "category": "Leisure",
+        "note": "Eat out"
+    },
+    {
+        "amount": 27.0,
+        "date": "2025-10-26",
+        "category": "Enjoy the time",
+        "note": "Cinema"
+    },
+    {
+        "amount": 40.0,
+        "date": "2025-10-26",
+        "category": "Travel costs",
+        "note": "To london"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "amount": 2600.0,
+        "date": "2025-10-26",
+        "category": "Bills",
+        "note": ""
+    },
+    {
+        "amount": 2600.0,
+        "date": "2025-10-26",
+        "category": "Car bills",
+        "note": "General spending"
+    },
+    {
+        "amount": 260.0,
+        "date": "2025-10-26",
+        "category": "Car bills",
+        "note": "General spending"
+    },
+    {
+        "amount": 400.0,
+        "date": "2025-10-26",
+        "category": "Water budget",
+        "note": "October water and electric bills"
+    }
+]

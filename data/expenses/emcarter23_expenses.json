@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 200.0,
+        "date": "2025-10-30",
+        "category": "Groceries",
+        "note": "Weekly Grocery shopping"
+    },
+    {
+        "amount": 1800.0,
+        "date": "2025-10-30",
+        "category": "Luxury spending",
+        "note": "Car upgrade"
+    }
+]

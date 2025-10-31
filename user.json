@@ -1,0 +1,66 @@
+[
+    {
+        "id": "4a4dd807-184d-430d-9c7a-ff155cebe829",
+        "names": "Cassey AKA Mohammmed Ali",
+        "username": "Mali",
+        "age": 29,
+        "bio": "Heavy weight boxer",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "65327706-7b7f-40a8-82a0-7b40add37ed2",
+        "names": "Huzeyfa Noor",
+        "username": "E-M78Bro",
+        "age": 29,
+        "bio": "Fat supporrt worker",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "6d19c302-8e4e-48ad-93ea-7eee8769a892",
+        "names": "Emily Carter",
+        "username": "emcarter",
+        "age": 27,
+        "bio": "UX Designer",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "6d211bf3-ae15-4ba3-bff0-38ba50ce9699",
+        "names": "Sarah Khan",
+        "username": "sarahk",
+        "age": 30,
+        "bio": "Fashion Designer",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "6e422db0-f598-4272-b04b-6bcbef4992a3",
+        "names": "David Jones",
+        "username": "dstone43",
+        "age": 33,
+        "bio": "Financial Analyst",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "b5883324-2b6f-4643-a648-ea8bdf6f751b",
+        "names": "Aishan Jamel",
+        "username": "aishaJa",
+        "age": 29,
+        "bio": "Psychatric doctor",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "df41e0ab-5523-4d77-862a-5ba4f5d4750b",
+        "names": "Emily John",
+        "username": "emcarter23",
+        "age": 28,
+        "bio": "Software Engineering",
+        "date": "2025-10-30"
+    },
+    {
+        "id": "f9467b3f-d30c-4c5a-842e-a49913a2c8a9",
+        "names": "Mohamed Ali",
+        "username": "malitech",
+        "age": 35,
+        "bio": "Data Analyst",
+        "date": "2025-10-30"
+    }
+]

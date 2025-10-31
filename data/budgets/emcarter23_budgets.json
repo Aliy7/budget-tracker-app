@@ -1,0 +1,14 @@
+[
+    {
+        "amount": 1500.0,
+        "date": "2025-10-30",
+        "category": "Household",
+        "note": "Monthly essentials"
+    },
+    {
+        "amount": 1700.0,
+        "date": "2025-10-30",
+        "category": "Grand bill",
+        "note": "Mortgage"
+    }
+]
